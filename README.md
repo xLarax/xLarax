@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Lara 👋
 
+- 🖤 I'm interested in coding, video games, music and drawing.
+- 🌱 I’m currently learning new programming languages related to web development.
 <!--
 **xLarax/xLarax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
